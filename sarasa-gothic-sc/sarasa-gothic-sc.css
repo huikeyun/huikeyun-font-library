@@ -1,0 +1,91 @@
+@charset "utf-8";
+/*更纱黑体 SC 超细体 Extralight*/
+@font-face {
+    font-family: "sarasa-gothic-sc-extralight";
+    src: url("sarasa-gothic-sc-extralight.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-extralight.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 超细斜体 Extralight Italic*/
+@font-face {
+    font-family: "sarasa-gothic-sc-extralight-italic";
+    src: url("sarasa-gothic-sc-extralight-italic.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-extralight-italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 细体 Light*/
+@font-face {
+    font-family: "sarasa-gothic-sc-light";
+    src: url("sarasa-gothic-sc-light.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-light.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 细斜体 Light Italic*/
+@font-face {
+    font-family: "sarasa-gothic-sc-light-italic";
+    src: url("sarasa-gothic-sc-light-italic.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-light-italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 常规体 Regular*/
+@font-face {
+    font-family: "sarasa-gothic-sc-regular";
+    src: url("sarasa-gothic-sc-regular.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-regular.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 斜体 Italic*/
+@font-face {
+    font-family: "sarasa-gothic-sc-italic";
+    src: url("sarasa-gothic-sc-italic.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 半粗体 Semibold*/
+@font-face {
+    font-family: "sarasa-gothic-sc-semibold";
+    src: url("sarasa-gothic-sc-semibold.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-semibold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 半粗斜体 Semibold Italic*/
+@font-face {
+    font-family: "sarasa-gothic-sc-semibold-italic";
+    src: url("sarasa-gothic-sc-semibold-italic.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-semibold-italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 粗体 Bold*/
+@font-face {
+    font-family: "sarasa-gothic-sc-bold";
+    src: url("sarasa-gothic-sc-bold.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-bold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 粗斜体 Bold Italic*/
+@font-face {
+    font-family: "sarasa-gothic-sc-bold-italic";
+    src: url("sarasa-gothic-sc-bold-italic.woff") format("woff"), /* Modern Browsers */ url("sarasa-gothic-sc-bold-italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*更纱黑体 SC 超细体 Extralight*/
+.sarasa-gothic-sc-extralight {
+    font-family: "sarasa-gothic-sc-extralight", sans-serif !important;
+}
+/*更纱黑体 SC 超细斜体 Extralight Italic*/
+.sarasa-gothic-sc-extralight-italic {
+    font-family: "sarasa-gothic-sc-extralight-italic", sans-serif !important;
+}
+/*更纱黑体 SC 细体 Light*/
+.sarasa-gothic-sc-light {
+    font-family: "sarasa-gothic-sc-light", sans-serif !important;
+}
+/*更纱黑体 SC 细斜体 Light Italic*/
+.sarasa-gothic-sc-light-italic {
+    font-family: "sarasa-gothic-sc-light-italic", sans-serif !important;
+}
+/*更纱黑体 SC 常规体 Regular*/
+.sarasa-gothic-sc-regular {
+    font-family: "sarasa-gothic-sc-regular", sans-serif !important;
+}
+/*更纱黑体 SC 斜体 Italic*/
+.sarasa-gothic-sc-italic {
+    font-family: "sarasa-gothic-sc-italic", sans-serif !important;
+}
+/*更纱黑体 SC 半粗体 Semibold*/
+.sarasa-gothic-sc-semibold {
+    font-family: "sarasa-gothic-sc-semibold", sans-serif !important;
+}
+/*更纱黑体 SC 半粗斜体 Semibold Italic*/
+.sarasa-gothic-sc-semibold-italic {
+    font-family: "sarasa-gothic-sc-semibold-italic", sans-serif !important;
+}
+/*更纱黑体 SC 粗体 Bold*/
+.sarasa-gothic-sc-bold {
+    font-family: "sarasa-gothic-sc-bold", sans-serif !important;
+}
+/*更纱黑体 SC 粗斜体 Bold Italic*/
+.sarasa-gothic-sc-bold-italic {
+    font-family: "sarasa-gothic-sc-bold-italic", sans-serif !important;
+}

@@ -1,0 +1,64 @@
+@charset "utf-8";
+/*思源宋体 SC 超细体 Extralight*/
+@font-face {
+    font-family: "source-han-serif-sc-extralight";
+    src: url("source-han-serif-sc-extralight.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-extralight.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 细体 Light*/
+@font-face {
+    font-family: "source-han-serif-sc-light";
+    src: url("source-han-serif-sc-light.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-light.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 常规体 Regular*/
+@font-face {
+    font-family: "source-han-serif-sc-regular";
+    src: url("source-han-serif-sc-regular.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-regular.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 中等体 Medium*/
+@font-face {
+    font-family: "source-han-serif-sc-medium";
+    src: url("source-han-serif-sc-medium.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-medium.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 半粗体 Semibold*/
+@font-face {
+    font-family: "source-han-serif-sc-semibold";
+    src: url("source-han-serif-sc-semibold.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-semibold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 粗体 Bold*/
+@font-face {
+    font-family: "source-han-serif-sc-bold";
+    src: url("source-han-serif-sc-bold.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-bold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 特粗体 Heavy*/
+@font-face {
+    font-family: "source-han-serif-sc-heavy";
+    src: url("source-han-serif-sc-heavy.woff") format("woff"), /* Modern Browsers */ url("source-han-serif-sc-heavy.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+/*思源宋体 SC 超细体 Extralight*/
+.source-han-serif-sc-extralight {
+    font-family: "source-han-serif-sc-extralight", sans-serif !important;
+}
+/*思源宋体 SC 细体 Light*/
+.source-han-serif-sc-light {
+    font-family: "source-han-serif-sc-light", sans-serif !important;
+}
+/*思源宋体 SC 常规体 Regular*/
+.source-han-serif-sc-regular {
+    font-family: "source-han-serif-sc-regular", sans-serif !important;
+}
+/*思源宋体 SC 中等体 Medium*/
+.source-han-serif-sc-medium {
+    font-family: "source-han-serif-sc-medium", sans-serif !important;
+}
+/*思源宋体 SC 半粗体 Semibold*/
+.source-han-serif-sc-semibold {
+    font-family: "source-han-serif-sc-semibold", sans-serif !important;
+}
+/*思源宋体 SC 粗体 Bold*/
+.source-han-serif-sc-bold {
+    font-family: "source-han-serif-sc-bold", sans-serif !important;
+}
+/*思源宋体 SC 特粗体 Heavy*/
+.source-han-serif-sc-heavy {
+    font-family: "source-han-serif-sc-heavy", sans-serif !important;
+}
